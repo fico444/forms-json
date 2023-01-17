@@ -1,0 +1,72 @@
+[
+    {
+        "ticketId": "abc123",
+        "nombre": "Juan Perez",
+        "age": 25,
+        "gtc": 2.50,
+        "agreeGtc": true
+    },
+    {
+        "ticketId": "def456",
+        "nombre": "Maria Rodriguez",
+        "age": 32,
+        "gtc": 1.75,
+        "agreeGtc": true
+    },
+    {
+        "ticketId": "ghi789",
+        "nombre": "Carlos Hernandez",
+        "age": 40,
+        "gtc": 2.25,
+        "agreeGtc": false
+    },
+    {
+        "ticketId": "jkl012",
+        "nombre": "Ana Gomez",
+        "age": 45,
+        "gtc": 1.50,
+        "agreeGtc": true
+    },
+    {
+        "ticketId": "mno345",
+        "nombre": "Jorge Lopez",
+        "age": 55,
+        "gtc": 2.75,
+        "agreeGtc": false
+    },
+    {
+        "ticketId": "pqr678",
+        "nombre": "Diana Martinez",
+        "age": 60,
+        "gtc": 1.25,
+        "agreeGtc": true
+    },
+    {
+        "ticketId": "stu901",
+        "nombre": "Pedro Garcia",
+        "age": 65,
+        "gtc": 2.50,
+        "agreeGtc": false
+    },
+    {
+        "ticketId": "vwx234",
+        "nombre": "Isabel Perez",
+        "age": 70,
+        "gtc": 1.75,
+        "agreeGtc": true
+    },
+    {
+        "ticketId": "yza567",
+        "nombre": "Luis Hernandez",
+        "age": 75,
+        "gtc": 2.25,
+        "agreeGtc": false
+    },
+    {
+        "ticketId": null,
+        "nombre": "Sofia Gomez",
+        "age": 80,
+        "gtc": 1.50,
+        "agreeGtc": true
+    }
+]
